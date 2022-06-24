@@ -1,0 +1,100 @@
+.paddimp {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 40px;
+
+}
+
+.finp {
+
+    margin: 10px;
+    width: 95%;
+    border-width: 2px !important;
+
+}
+
+.bsbtn {
+    margin-bottom: 20px !important;
+
+}
+
+.fbbb {
+    background-color: #415992;
+    height: 20%;
+    width: 100%;
+
+}
+
+.fb1 {
+    margin-top: 5px;
+
+}
+
+.fb2 {
+    margin: 10px;
+    float: right;
+    justify-content: center;
+    display: flex;
+    align-items: row;
+
+
+
+
+}
+
+.butn1 {
+    margin-left: 6px;
+    background-color: #2B77F2;
+    color: white;
+}
+
+.inpp2 {
+    margin-left: 6px;
+}
+
+.logoutbtn2 {
+    margin-top: 6px;
+
+}
+
+
+@media(max-width:606px) {
+    .inpp2 {
+
+        font-size: 12px;
+
+    }
+
+    .fbbb1 {
+        display: none;
+    }
+
+    .butn1 {
+        font-size: 12px;
+    }
+
+}
+
+
+@media(max-width:442px) {
+    .inpp2 {
+
+        font-size: 8px;
+
+    }
+
+    .butn1 {
+        font-size: 8px;
+    }
+
+    .createac {
+        font-size: 20px;
+    }
+
+    .finp {
+        font-size: 15px;
+
+    }
+
+
+}
